@@ -1,4 +1,4 @@
 
 # Table of Contents
-1. [Challenge Summary](README.md#challenge-summary)
+1. [Objective](README.md#Objective)
 2. [Details of Implementation](README.md#details-of-implementation)
