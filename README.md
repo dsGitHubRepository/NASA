@@ -1,6 +1,8 @@
 
 #  Table of Contents
 
+[Introduction](README.md#introduction)
+
 1. [Create a File](README.md#create-a-file)
 2. [Git Add](README.md#git-add)
 3. [Git Commit](README.md#git-commit)
