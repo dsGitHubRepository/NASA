@@ -11,7 +11,7 @@
 
 # Introduction 
 
-Configure git so that it can connect terminal with your github account. Use following command in terminal to configure git:
+Configure git so that it can connect terminal with user account. Use following command in terminal to configure git:
 
 git config --global user.name "user name"
 
