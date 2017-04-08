@@ -1,5 +1,5 @@
 
-#  Git Cheat Sheet
+## Git Cheat Sheet
 
  [Introduction](README.md#introduction)
 [Basic git Commands](README.md#basic-git-commands)
