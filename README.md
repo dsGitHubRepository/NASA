@@ -2,7 +2,7 @@
 ## Git Cheat Sheet
 
 [Introduction](README.md#introduction) \
-[Basic git Commands](README.md#basic-git-commands)
+[Basic git Commands](README.md#basic-git-commands)\
 [git Status Update](README.md#status-update)
 
 ### Introduction 
