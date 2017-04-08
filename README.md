@@ -1,8 +1,8 @@
 
 #  Table of Contents
 
-1. [Introduction](README.md#introduction)
-2. [Basic git Commands](README.md#basic-git-commands)
+ [Introduction](README.md#introduction)
+[Basic git Commands](README.md#basic-git-commands)
 
 ### Introduction 
 Configure git so that it can connect terminal with user account. Use following command in terminal to configure git:
