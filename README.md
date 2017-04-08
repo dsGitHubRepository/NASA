@@ -9,4 +9,11 @@
 5. [Useful Git Commands](README.md#useful-git-commands)
 
 
+# Introduction 
+
+Configure git so that it can connect terminal with your github account. Use following command in terminal to configure git:
+
+git config --global user.name "user name"
+
+
 
