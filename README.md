@@ -12,6 +12,7 @@
 Configure git so that it can connect terminal with user account. Use following command in terminal to configure git:
 
 $ git config --global user.name "user name"
+
 $ git config --global user.email "email"
 
 Those configuration basically connects github terminal to github.com
