@@ -1,4 +1,4 @@
-## Basic instructions for Intro Github users
+## Very basic instructions for Intro Github users
 
 [Introduction](README.md#introduction) \
 [Basic git Commands](README.md#basic-git-commands)\
