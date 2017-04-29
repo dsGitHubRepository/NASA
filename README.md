@@ -12,7 +12,7 @@ $ git config --global user.email "email"
 
 Those configuration basically connects github terminal to github.com
 
-### Basic git Commands
+### basic git Commands
 Adding a file or editing a file can be updated on the repository using three basic git commands such as "git add", "git commit -m" and "git push". \
 $ git add *.* \
 $ git commit -m "section added to file" \
