@@ -7,3 +7,5 @@ n = randperm(11,1);
 ind=find(coins==n);
 coins(ind)=[];
 coins
+
+% comments to 
